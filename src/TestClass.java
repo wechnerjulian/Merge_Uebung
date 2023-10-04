@@ -9,6 +9,10 @@ public class TestClass {
     private int uebung = 27923;
     private double uebung1 = 27.9;
 
+
+    private int uebung = 27923;
+    private double uebung1 = 27.9;
+
     private String test9;
     private String test4;
     private int test5 = 8;private String test6;
